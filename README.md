@@ -27,7 +27,7 @@ After the EDA, I designed and developed an interactive Power BI dashboard. The d
 
 ### Results & Findings
 
-The analysis revealed that total sales reached X over the reporting period, while profits amounted to Y. It became clear that [Region A] outperformed all other regions, while [Region B] lagged behind. Product categories such as Furniture, Technology, and Office Supplies generated the largest share of overall revenue. A time-series review of the data uncovered a strong seasonal pattern, with [Month] recording the highest sales. Importantly, some products demonstrated high revenue but low profit margins, highlighting an opportunity for the business to reassess pricing strategies or renegotiate supplier costs.
+The analysis revealed that total sales reached 85 Million over the reporting period, while profits amounted to 32 Million. It became clear that [Region A] outperformed all other regions, while [Region B] lagged behind. Product categories such as Furniture, Technology, and Office Supplies generated the largest share of overall revenue. A time-series review of the data uncovered a strong seasonal pattern, with [Month] recording the highest sales. Importantly, some products demonstrated high revenue but low profit margins, highlighting an opportunity for the business to reassess pricing strategies or renegotiate supplier costs.
 
 ### Recommendations
 
