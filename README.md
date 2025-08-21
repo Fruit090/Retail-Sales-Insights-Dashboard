@@ -5,40 +5,33 @@
 
 ### Project Overview
 
-The objective of this project was to analyze company sales data and build an interactive Power BI dashboard to uncover trends across regions, product categories, and time. The goal was to provide management with actionable insights to improve profitability, optimize inventory, and strengthen regional strategies.
+This project focused on analyzing company sales data to uncover patterns across products, regions, and time. The goal was to build an interactive Power BI dashboard that would help management make data-driven decisions to improve profitability, optimize inventory, and guide regional sales strategies.
 
 ### Data Cleaning & Preparation
 
-1.Imported raw sales data from Excel into Power BI.
-
-2.Verified data integrity, removed duplicates, and standardized formats.
-
-3.Handled missing values to ensure accurate reporting.
-
-4.Created relationships between tables for seamless reporting in Power BI.
+The raw dataset was imported from Excel into Power BI. I ensured data integrity by removing duplicates, handling missing values, and standardizing formats. Relationships were created between tables to integrate product, regional, and sales data for seamless reporting.
 
 ### Exploratory Data Analysis (EDA)
 
-With the data cleaned and connected, I performed an exploratory analysis to better understand the dataset. I examined total sales, profit, and quantity sold, while also identifying the most and least successful product categories and sub-categories. I reviewed the contributions of various regions to overall sales and assessed time-based trends at both monthly and yearly levels. This provided early insights into seasonality, customer demand, and market dynamics.
+Initial exploration highlighted overall sales, profit, and quantity sold, while also surfacing the most successful product categories and sub-categories. Regional contributions to total revenue were reviewed, and monthly/yearly sales trends were analyzed to identify seasonality in demand.
 
 ### Data Analysis & Visualization
 
-After the EDA, I designed and developed an interactive Power BI dashboard. The dashboard included a set of KPIs such as total sales, profit, and quantity sold. It provided comparative views of sales across regions, detailed insights into product categories and sub-categories, and a monthly trend analysis that showed peaks and dips in performance. Additionally, the dashboard highlighted the top products contributing to revenue and flagged those with high sales volumes but low profitability, helping to reveal potential inefficiencies.
+The cleaned data was modeled into a Power BI dashboard featuring KPIs (total sales, profit, and cost), regional performance, category and sub-category analysis, monthly revenue trends, and profitability insights. The dashboard highlighted both top-performing and underperforming areas, providing a clear view of business performance.
 
 ### Results & Findings
 
-The analysis revealed that total sales reached 85 Million over the reporting period, while profits amounted to 32 Million. It became clear that [Region A] outperformed all other regions, while [Region B] lagged behind. Product categories such as Furniture, Technology, and Office Supplies generated the largest share of overall revenue. A time-series review of the data uncovered a strong seasonal pattern, with [Month] recording the highest sales. Importantly, some products demonstrated high revenue but low profit margins, highlighting an opportunity for the business to reassess pricing strategies or renegotiate supplier costs.
+The analysis revealed 85M in total revenue with 32M in profit. Bikes dominated with 62M, followed by Accessories (15M) and Clothing (8M). At a sub-category level, Road Bikes (33M) and Mountain Bikes (21M) led performance.
+Regionally, the United States (28M) was the strongest market, while Australia (21M) and the United Kingdom (11M) followed. Seasonal analysis showed December (9.1M) as the peak month, reflecting strong holiday demand. Profitability peaked in 2015 (7.5M), confirming business growth momentum.
 
 ### Recommendations
 
-Based on the findings, I recommended focusing investment and marketing efforts on high-margin categories to maximize profitability. Regional sales strategies should be strengthened in underperforming markets to create more balance across regions. I also suggested leveraging seasonal peaks by planning targeted promotional campaigns and optimizing inventory management to align with forecasted demand. Finally, I advised reviewing low-margin, high-sales products to identify ways of improving profitability, whether through cost reductions or price adjustments.
+Based on these insights, I recommended expanding the bike category, leveraging holiday and mid-year demand with targeted promotions, and tailoring strategies to boost sales in moderate markets like Germany, France, and Canada. Inventory planning should align with seasonal peaks, while low-revenue sub-categories could be reviewed for optimization.
 
 ### Limitations
-
-This analysis was limited to the data and timeframe provided in the dataset. While the results are valuable, they did not incorporate customer demographics, marketing spend, or external influences such as competitor activity and promotional campaigns. Including these factors in future analyses would provide a more comprehensive understanding of the drivers of sales performance.
+The analysis was limited to the provided dataset and timeframe. External factors such as competitor actions, promotions, and customer demographics were not included but could provide additional depth in future studies.
 
 ### References
-Dataset :[Kaggle](https://kaggle.com)
-Dataset: Company sales dataset (Excel).
+[Kaggle](https://kaggle.com)
 
-Tools: Microsoft Power BI, Excel.
+Dataset: Company Sales Dataset [Excel](https://excel.com)
